@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-33px;
-  width:375px;
+  left:-0px;
+  width:408px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -137,8 +137,8 @@
 }
 #u11 {
   position:absolute;
-  left:33px;
-  top:135px;
+  left:0px;
+  top:0px;
   width:375px;
   height:647px;
   opacity:0.7;
@@ -160,8 +160,8 @@
 }
 #u13 {
   position:absolute;
-  left:48px;
-  top:252px;
+  left:15px;
+  top:117px;
   width:345px;
   height:459px;
   opacity:0.8;
@@ -181,8 +181,8 @@
 }
 #u15 {
   position:absolute;
-  left:96px;
-  top:423px;
+  left:63px;
+  top:288px;
   width:250px;
   height:29px;
 }
@@ -219,8 +219,8 @@
 }
 #u18 {
   position:absolute;
-  left:141px;
-  top:480px;
+  left:108px;
+  top:345px;
   width:205px;
   height:30px;
 }
@@ -250,8 +250,8 @@
 }
 #u19 {
   position:absolute;
-  left:96px;
-  top:510px;
+  left:63px;
+  top:375px;
   width:250px;
   height:1px;
 }
@@ -272,8 +272,8 @@
 }
 #u21 {
   position:absolute;
-  left:98px;
-  top:474px;
+  left:65px;
+  top:339px;
   width:33px;
   height:33px;
 }
@@ -301,8 +301,8 @@
 }
 #u24 {
   position:absolute;
-  left:96px;
-  top:585px;
+  left:63px;
+  top:450px;
   width:250px;
   height:1px;
 }
@@ -316,8 +316,8 @@
 }
 #u26 {
   position:absolute;
-  left:141px;
-  top:555px;
+  left:108px;
+  top:420px;
   width:205px;
   height:30px;
 }
@@ -347,8 +347,8 @@
 }
 #u27 {
   position:absolute;
-  left:98px;
-  top:549px;
+  left:65px;
+  top:414px;
   width:33px;
   height:33px;
 }
@@ -369,8 +369,8 @@
 }
 #u29 {
   position:absolute;
-  left:164px;
-  top:188px;
+  left:131px;
+  top:53px;
   width:120px;
   height:120px;
 }
@@ -400,8 +400,8 @@
 }
 #u31 {
   position:absolute;
-  left:121px;
-  top:622px;
+  left:88px;
+  top:487px;
   width:200px;
   height:40px;
   font-size:18px;
@@ -435,8 +435,8 @@
 }
 #u33 {
   position:absolute;
-  left:57px;
-  top:314px;
+  left:24px;
+  top:179px;
   width:328px;
   height:79px;
   font-family:'华文楷体 Bold', '华文楷体 Regular', '华文楷体';
