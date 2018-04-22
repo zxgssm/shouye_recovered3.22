@@ -78,6 +78,9 @@
 ._文本段落 {
   text-align:left;
 }
+._图片1 {
+  color:#000000;
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -106,7 +109,7 @@
   font-size:16px;
   color:#000000;
 }
-._图片1 {
+._图片2 {
   font-size:13px;
   color:#000000;
 }
@@ -118,7 +121,20 @@
 }
 .line {
 }
+.arrow {
+}
 ._表格 {
 }
 .icon {
+}
+.shape {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._形状2 {
 }
